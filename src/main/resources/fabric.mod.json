@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "kilt_tacz_spoof",
+  "version": "${version}",
+  "name": "Kilt Tacz Version Spoof",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/kilt_tacz_spoof/icon.png",
+  "environment": "client",
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "1.20.1",
+    "kilt": ">=2.0.0"
+  }
+}
